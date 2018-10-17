@@ -1,0 +1,15 @@
+header{
+    width: 100%;
+}
+.header-wraper{
+    width:1170px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+}
+.logo{
+    justify-content: flex-start;
+}
+nav{
+    justify-content: flex-end;
+}
